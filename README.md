@@ -7,7 +7,7 @@ Analyzed 1,400+ Amazon India product listings across 9 categories
 to track pricing, discounts, and customer engagement.
 
 ## Dashboard Preview
-![Dashboard](excel dashboard.png)
+![Dashboard](excel-dashboard.png)
 
 ## What I Did
 - Cleaned raw data with encoding issues using Excel formulas
